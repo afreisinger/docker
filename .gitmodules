@@ -4,3 +4,6 @@
 [submodule "nginx-proxy-ssl"]
 	path = nginx-proxy-ssl
 	url = https://github.com/afreisinger/nginx-proxy-ssl.git
+[submodule "nginx-proxy"]
+	path = nginx-proxy
+	url = https://github.com/afreisinger/nginx-proxy.git
