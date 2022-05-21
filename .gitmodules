@@ -4,3 +4,6 @@
 [submodule "tutorial"]
 	path = tutorial
 	url = https://github.com/afreisinger/docker-tutorial.git
+[submodule "nginx-proxy-ssl"]
+	path = nginx-proxy-ssl
+	url = https://github.com/afreisinger/nginx-proxy-ssl.git
