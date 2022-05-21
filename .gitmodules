@@ -1,3 +1,6 @@
 [submodule "www"]
 	path = www
 	url = https://github.com/afreisinger/www.git
+[submodule "tutorial"]
+	path = tutorial
+	url = https://github.com/afreisinger/docker-tutorial.git
