@@ -7,3 +7,6 @@
 [submodule "nginx-proxy"]
 	path = nginx-proxy
 	url = https://github.com/afreisinger/nginx-proxy.git
+[submodule "portainer"]
+	path = portainer
+	url = https://github.com/afreisinger/portainer.git
