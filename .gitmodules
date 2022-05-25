@@ -10,3 +10,6 @@
 [submodule "portainer"]
 	path = portainer
 	url = https://github.com/afreisinger/portainer.git
+[submodule "bitnami-wordpress-nginx"]
+	path = bitnami-wordpress-nginx
+	url = https://github.com/afreisinger/bitnami-wordpress-nginx.git
