@@ -13,3 +13,6 @@
 [submodule "bitnami-wordpress-nginx"]
 	path = bitnami-wordpress-nginx
 	url = https://github.com/afreisinger/bitnami-wordpress-nginx.git
+[submodule "mosquitto-auth"]
+	path = mosquitto-auth
+	url = https://github.com/afreisinger/mosquitto-auth.git
