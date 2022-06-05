@@ -16,3 +16,6 @@
 [submodule "mosquitto-auth"]
 	path = mosquitto-auth
 	url = https://github.com/afreisinger/mosquitto-auth.git
+[submodule "nodered"]
+	path = nodered
+	url = https://github.com/afreisinger/nodered.git
