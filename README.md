@@ -2,11 +2,12 @@
 
 docker files examples
 
+clone
 ```
 git clone --recursive https://github.com/afreisinger/docker.git
 ```
-update
 
+update
 ```
 git submodule foreach git pull origin main
 ```
