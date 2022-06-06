@@ -1,24 +1,32 @@
 [submodule "www"]
 	path = www
 	url = https://github.com/afreisinger/www.git
+	ignore = dirty
 [submodule "nginx-proxy-ssl"]
 	path = nginx-proxy-ssl
 	url = https://github.com/afreisinger/nginx-proxy-ssl.git
+	ignore = dirty
 [submodule "nginx-proxy"]
 	path = nginx-proxy
 	url = https://github.com/afreisinger/nginx-proxy.git
+	ignore = dirty
 [submodule "portainer"]
 	path = portainer
 	url = https://github.com/afreisinger/portainer.git
+	ignore = dirty
 [submodule "bitnami-wordpress-nginx"]
 	path = bitnami-wordpress-nginx
 	url = https://github.com/afreisinger/bitnami-wordpress-nginx.git
+	ignore = dirty
 [submodule "mosquitto-auth"]
 	path = mosquitto-auth
 	url = https://github.com/afreisinger/mosquitto-auth.git
+	ignore = dirty
 [submodule "nodered"]
 	path = nodered
 	url = https://github.com/afreisinger/nodered.git
+	ignore = dirty
 [submodule "nodered-mqtt"]
 	path = nodered-mqtt
 	url = https://github.com/afreisinger/nodered-mqtt.git
+	ignore = dirty
