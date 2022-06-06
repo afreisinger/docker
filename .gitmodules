@@ -19,3 +19,6 @@
 [submodule "nodered"]
 	path = nodered
 	url = https://github.com/afreisinger/nodered.git
+[submodule "nodered-mqtt"]
+	path = nodered-mqtt
+	url = https://github.com/afreisinger/nodered-mqtt.git
